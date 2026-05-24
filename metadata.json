@@ -1,0 +1,6 @@
+{
+  "name": "AI DJ Music Player",
+  "description": "An immersive digital terminal music deck with real-time dot-matrix clock, customizable playlist queue, and English male voice synthesis featuring AI DJ Claudio.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
